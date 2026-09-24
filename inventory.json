@@ -1,0 +1,318 @@
+{
+  "dealership": "Chilliwack Ford",
+  "generated_at": "2026-09-24T16:05:47",
+  "vehicle_count": 29,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMCU9PZ9PUA30798",
+      "stock": "99-A307",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/cc85bd6369e3.html",
+      "source_url": "https://chilliwackford.com/view/used-2023-ford-escape-1732112/",
+      "dealer_url": "https://chilliwackford.com/view/used-2023-ford-escape-1732112/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:00:46",
+      "odometer_km": 24052,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMSK8KHXPGA45688",
+      "stock": "99-A456",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/5ada4e0afb05.html",
+      "source_url": "https://chilliwackford.com/view/used-2023-ford-explorer-1851739/",
+      "dealer_url": "https://chilliwackford.com/view/used-2023-ford-explorer-1851739/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:00:56",
+      "odometer_km": 77132,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW1E84PFB11560",
+      "stock": "99-B115",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/e787d0d18949.html",
+      "source_url": "https://chilliwackford.com/view/used-2023-ford-f-150-1852632/",
+      "dealer_url": "https://chilliwackford.com/view/used-2023-ford-f-150-1852632/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:01:05",
+      "odometer_km": 73600,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tToyota",
+      "vin": "JTENU5JR7P6170797",
+      "stock": "99-1707",
+      "color": "Classic Silver",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/03ed6fbac9c1.html",
+      "source_url": "https://chilliwackford.com/view/used-2023-toyota-4runner-1864664/",
+      "dealer_url": "https://chilliwackford.com/view/used-2023-toyota-4runner-1864664/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:01:14",
+      "odometer_km": 40958,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tToyota",
+      "vin": "3TYCZ5AN6PT118088",
+      "stock": "99-1180",
+      "color": "Magnetic Grey Meta",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/9afaabb6d424.html",
+      "source_url": "https://chilliwackford.com/view/used-2023-toyota-tacoma-1851740/",
+      "dealer_url": "https://chilliwackford.com/view/used-2023-toyota-tacoma-1851740/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:01:24",
+      "odometer_km": 62505,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW7L89RFA16078",
+      "stock": "99-A160",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/ca34b634ad34.html",
+      "source_url": "https://chilliwackford.com/view/used-2024-ford-f-150-1851744/",
+      "dealer_url": "https://chilliwackford.com/view/used-2024-ford-f-150-1851744/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:01:34",
+      "odometer_km": 48422,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTEW3LPXRFB56975",
+      "stock": "99-B569",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/c490ac82e191.html",
+      "source_url": "https://chilliwackford.com/view/used-2024-ford-f-150-1912585/",
+      "dealer_url": "https://chilliwackford.com/view/used-2024-ford-f-150-1912585/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:01:43",
+      "odometer_km": 45324,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "3FTTW8S96RRB22400",
+      "stock": "99-B224",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/a119d733e563.html",
+      "source_url": "https://chilliwackford.com/view/used-2024-ford-maverick-1851745/",
+      "dealer_url": "https://chilliwackford.com/view/used-2024-ford-maverick-1851745/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:01:51",
+      "odometer_km": 32969,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BM0REC45738",
+      "stock": "99-C457",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/f1132395ec0e.html",
+      "source_url": "https://chilliwackford.com/view/used-2024-ford-super-duty-f-350-srw-1749086/",
+      "dealer_url": "https://chilliwackford.com/view/used-2024-ford-super-duty-f-350-srw-1749086/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:02:00",
+      "odometer_km": 58640,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025\n\t\t\t\t\t\t\t\tChevrolet",
+      "vin": "KL77LKE25SC067526",
+      "stock": "99-0675",
+      "color": "S",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/b676edc8fdaf.html",
+      "source_url": "https://chilliwackford.com/view/used-2025-chevrolet-trax-1876667/",
+      "dealer_url": "https://chilliwackford.com/view/used-2025-chevrolet-trax-1876667/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:02:10",
+      "odometer_km": 25621,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMUK8KH5SGB86511",
+      "stock": "99-B865",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/2cd2c8a73dc7.html",
+      "source_url": "https://chilliwackford.com/view/used-2025-ford-explorer-1912584/",
+      "dealer_url": "https://chilliwackford.com/view/used-2025-ford-explorer-1912584/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:02:20",
+      "odometer_km": 15340,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW5L81SFA67357",
+      "stock": "99-A673",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/87b291044cbc.html",
+      "source_url": "https://chilliwackford.com/view/used-2025-ford-f-150-1852630/",
+      "dealer_url": "https://chilliwackford.com/view/used-2025-ford-f-150-1852630/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:02:28",
+      "odometer_km": 7608,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTEW2LP0SKF19002",
+      "stock": "99-F190",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/7e253c662552.html",
+      "source_url": "https://chilliwackford.com/view/used-2025-ford-f-150-1876663/",
+      "dealer_url": "https://chilliwackford.com/view/used-2025-ford-f-150-1876663/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:02:37",
+      "odometer_km": 14936,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025\n\t\t\t\t\t\t\t\tKia",
+      "vin": "5XYC4DJC7SG001399",
+      "stock": "99-0013",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/2a0d079825ba.html",
+      "source_url": "https://chilliwackford.com/view/used-2025-kia-ev6-1851743/",
+      "dealer_url": "https://chilliwackford.com/view/used-2025-kia-ev6-1851743/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:02:46",
+      "odometer_km": 25570,
+      "condition": "used"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMJK1M84VEA15028",
+      "stock": "75-A150",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/2f66ad843257.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-expedition-1882589/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-expedition-1882589/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:03:33",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMUK8DH2VGA05902",
+      "stock": "75-A059",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/3e064c3cf85d.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910796/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910796/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:03:43",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMUK8DH7VGA07242",
+      "stock": "75-A072",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/43135e132e05.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910797/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910797/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:03:50",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMWK8JC2VGA06758",
+      "stock": "75-A067",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/511d07de95b8.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1924155/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1924155/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:03:59",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BM5VEC19596",
+      "stock": "85-C195",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/a43973559b85.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1912478/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1912478/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:04:08",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BM5VEC19629",
+      "stock": "85-C196",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/35e44c71b240.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1912583/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1912583/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:04:19",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BM9VEC21660",
+      "stock": "85-C216",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/4d543513dee2.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1918894/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1918894/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:04:27",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BMXVEC00834",
+      "stock": "85-C008",
+      "color": "Oxford White",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/e582c1993dc4.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1920422/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1920422/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:04:35",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "2FT8W3BN8VBA02225",
+      "stock": "85-A022",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/79d6d03ee47f.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924159/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924159/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:04:43",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTYE1Y80VKA13489",
+      "stock": "77-A134",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/e7a4fa44999e.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915400/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915400/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:04:51",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTBW3X84VKA21191",
+      "stock": "77-A211",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/a08420dec3d9.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915403/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915403/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:05:01",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTBR2C89VKA22179",
+      "stock": "77-A221",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/164d78a13644.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915405/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915405/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:05:11",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTBR2C87VKA21242",
+      "stock": "77-A212",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/b4e92324394b.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915407/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915407/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:05:19",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTBW3UG7VKA14117",
+      "stock": "77-A141",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/f4d3ec87c8f4.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915408/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915408/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:05:30",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FBVU5XG3VKA23766",
+      "stock": "77-A237",
+      "color": "Oxford White",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/3464959236c7.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1924160/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1924160/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:05:40",
+      "condition": "new"
+    }
+  ]
+}
