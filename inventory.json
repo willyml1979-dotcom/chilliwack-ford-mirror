@@ -1,6 +1,6 @@
 {
   "dealership": "Chilliwack Ford",
-  "generated_at": "2026-09-26T16:20:43",
+  "generated_at": "2026-09-26T16:23:42",
   "vehicle_count": 29,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -169,7 +169,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/2f66ad843257.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-expedition-1882589/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-expedition-1882589/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:03:33",
+      "last_verified": "2026-09-26T16:21:45",
       "condition": "new"
     },
     {
@@ -179,7 +179,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/3e064c3cf85d.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910796/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910796/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:03:43",
+      "last_verified": "2026-09-26T16:21:55",
       "condition": "new"
     },
     {
@@ -189,7 +189,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/43135e132e05.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910797/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910797/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:03:50",
+      "last_verified": "2026-09-26T16:22:05",
       "condition": "new"
     },
     {
@@ -199,7 +199,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/511d07de95b8.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1924155/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1924155/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:03:59",
+      "last_verified": "2026-09-26T16:22:14",
       "condition": "new"
     },
     {
@@ -209,7 +209,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/a43973559b85.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1912478/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1912478/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:04:08",
+      "last_verified": "2026-09-26T16:22:23",
       "condition": "new"
     },
     {
@@ -219,17 +219,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/35e44c71b240.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1912583/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1912583/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:04:19",
-      "condition": "new"
-    },
-    {
-      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
-      "vin": "1FT8W3BM9VEC21660",
-      "stock": "85-C216",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/4d543513dee2.html",
-      "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1918894/",
-      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1918894/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:04:27",
+      "last_verified": "2026-09-26T16:22:32",
       "condition": "new"
     },
     {
@@ -240,7 +230,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/e582c1993dc4.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1920422/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1920422/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:04:35",
+      "last_verified": "2026-09-26T16:22:40",
       "condition": "new"
     },
     {
@@ -250,17 +240,17 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/79d6d03ee47f.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924159/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924159/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:04:43",
+      "last_verified": "2026-09-26T16:22:50",
       "condition": "new"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
-      "vin": "1FTYE1Y80VKA13489",
-      "stock": "77-A134",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/e7a4fa44999e.html",
-      "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915400/",
-      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915400/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:04:51",
+      "vin": "1FT8W3BM8VEC19270",
+      "stock": "85-C192",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/4e71b1cceff6.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924162/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924162/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T16:21:25",
       "condition": "new"
     },
     {
@@ -270,7 +260,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/a08420dec3d9.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915403/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915403/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:05:01",
+      "last_verified": "2026-09-26T16:22:58",
       "condition": "new"
     },
     {
@@ -280,7 +270,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/164d78a13644.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915405/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915405/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:05:11",
+      "last_verified": "2026-09-26T16:23:07",
       "condition": "new"
     },
     {
@@ -290,7 +280,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/b4e92324394b.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915407/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915407/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:05:19",
+      "last_verified": "2026-09-26T16:23:17",
       "condition": "new"
     },
     {
@@ -300,7 +290,7 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/f4d3ec87c8f4.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915408/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915408/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:05:30",
+      "last_verified": "2026-09-26T16:23:27",
       "condition": "new"
     },
     {
@@ -311,7 +301,17 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/3464959236c7.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1924160/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1924160/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:05:40",
+      "last_verified": "2026-09-26T16:23:37",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FBVU5XG7VKA23107",
+      "stock": "77-A231",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/6c7fb11fb360.html",
+      "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1924161/",
+      "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1924161/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T16:21:35",
       "condition": "new"
     }
   ]
