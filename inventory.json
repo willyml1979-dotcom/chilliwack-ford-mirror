@@ -1,6 +1,6 @@
 {
   "dealership": "Chilliwack Ford",
-  "generated_at": "2026-10-04T15:48:11",
+  "generated_at": "2026-10-07T21:49:59",
   "vehicle_count": 30,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2023-ford-escape-1732112/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:46:13",
       "odometer_km": 24052,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
@@ -25,7 +27,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2023-ford-explorer-1851739/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:46:22",
       "odometer_km": 77132,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
@@ -36,7 +40,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2023-ford-f-150-1852632/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:46:31",
       "odometer_km": 73600,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2023\n\t\t\t\t\t\t\t\tToyota",
@@ -48,7 +54,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2023-toyota-4runner-1864664/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:46:41",
       "odometer_km": 40958,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2023\n\t\t\t\t\t\t\t\tToyota",
@@ -60,7 +68,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2023-toyota-tacoma-1851740/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:46:50",
       "odometer_km": 62505,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
@@ -71,7 +81,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2024-ford-bronco-sport-1925420/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:46:03",
       "odometer_km": 23319,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
@@ -82,7 +94,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2024-ford-f-150-1851744/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:46:59",
       "odometer_km": 48422,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
@@ -93,7 +107,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2024-ford-f-150-1912585/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:47:08",
       "odometer_km": 45324,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
@@ -104,7 +120,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2024-ford-maverick-1851745/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:47:16",
       "odometer_km": 32969,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
@@ -115,7 +133,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2024-ford-super-duty-f-350-srw-1749086/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:47:25",
       "odometer_km": 58640,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025\n\t\t\t\t\t\t\t\tChevrolet",
@@ -127,7 +147,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2025-chevrolet-trax-1876667/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:47:34",
       "odometer_km": 25621,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
@@ -138,7 +160,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2025-ford-explorer-1912584/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:47:41",
       "odometer_km": 15340,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
@@ -149,7 +173,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2025-ford-f-150-1852630/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:47:49",
       "odometer_km": 7608,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
@@ -160,7 +186,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2025-ford-f-150-1876663/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:47:58",
       "odometer_km": 14936,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025\n\t\t\t\t\t\t\t\tKia",
@@ -171,7 +199,9 @@
       "dealer_url": "https://chilliwackford.com/view/used-2025-kia-ev6-1851743/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T15:48:07",
       "odometer_km": 25570,
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -180,8 +210,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/2f66ad843257.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-expedition-1882589/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-expedition-1882589/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:05:34",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:48:17",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -190,8 +222,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/3e064c3cf85d.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910796/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910796/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:05:43",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:48:28",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -200,8 +234,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/43135e132e05.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910797/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1910797/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:05:51",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:48:38",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -210,8 +246,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/511d07de95b8.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1924155/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-explorer-1924155/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:06:00",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:48:48",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -220,19 +258,22 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/35e44c71b240.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1912583/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1912583/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:06:08",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:48:57",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FT8W3BMXVEC00834",
       "stock": "85-C008",
-      "color": "Oxford White",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/e582c1993dc4.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1920422/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1920422/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:06:18",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:49:07",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -241,8 +282,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/79d6d03ee47f.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924159/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924159/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:06:27",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:49:16",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -251,8 +294,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/4e71b1cceff6.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924162/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924162/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:05:19",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:48:00",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -261,8 +306,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/a68f1068e416.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924164/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924164/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:04:59",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:47:41",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -271,8 +318,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/3b7a3a1dcc1a.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924166/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-super-duty-1924166/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:05:10",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:47:50",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -281,8 +330,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/a08420dec3d9.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915403/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915403/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:06:36",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:49:25",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -291,8 +342,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/164d78a13644.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915405/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915405/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:06:46",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:49:34",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -301,8 +354,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/b4e92324394b.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915407/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1915407/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:06:57",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:49:44",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -312,8 +367,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/3464959236c7.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1924160/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1924160/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:07:06",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:49:54",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
@@ -322,8 +379,10 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/6c7fb11fb360.html",
       "source_url": "https://chilliwackford.com/view/new-2027-ford-transit-1924161/",
       "dealer_url": "https://chilliwackford.com/view/new-2027-ford-transit-1924161/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T14:05:27",
-      "condition": "new"
+      "last_verified": "2026-10-07T21:48:08",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     }
   ]
 }
