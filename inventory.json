@@ -1,7 +1,7 @@
 {
   "dealership": "Chilliwack Ford",
-  "generated_at": "2026-11-17T06:55:58",
-  "vehicle_count": 31,
+  "generated_at": "2026-11-17T07:01:40",
+  "vehicle_count": 46,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -121,6 +121,30 @@
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMUK8DH5VGA59551",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/d87cd0cb5864.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMUK8JH5VGA84891",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/9126be34b285.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMUK8JH3VGA57768",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/85f3f3e47bd1.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMUK8HH0VGA83136",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/7160c42eb301.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FT8W3BM5VEC19629",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/35e44c71b240.html",
       "condition": "new"
@@ -175,6 +199,42 @@
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BM3VEC31634",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/9a097d68d385.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BM6VEC00801",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/20ed2b4cfc75.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BM5VEC26452",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/9c3c7da9988f.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "2FT8W3BM7VBA05057",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/0f998c39a3e9.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BM7VEC47660",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/799e5dd13e9b.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BM6VEC49013",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/05d34cc96f11.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTBR2C89VKA22179",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/164d78a13644.html",
       "condition": "new"
@@ -189,6 +249,36 @@
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FBVU5XG3VKA23766",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/3464959236c7.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTBW3UG2VKA30533",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/044e9750ea3c.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTBR1C83VKA40851",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/73bee4bdcdaf.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTBW3UG9VKA36846",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/8520e687c2a9.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTYE1Y85VKA24830",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/81f8f146397e.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTBR2YG2VKA01951",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/new/4d19ea0ccb3a.html",
       "condition": "new"
     }
   ]
