@@ -1,6 +1,6 @@
 # Chilliwack Ford
 
- dealership in Chilliwack. AI-readable inventory mirror, about 46 vehicles.
+ dealership in Chilliwack. AI-readable inventory mirror, about 45 vehicles.
 
 - Official website: https://chilliwackford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/chilliwack-ford-mirror/used/
